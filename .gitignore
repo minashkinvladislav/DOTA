@@ -1,0 +1,15 @@
+.ipynb_checkpoints
+dota_wget
+dota_wget
+dota_db_1.3
+dota_hero_icons
+test_pic
+hero_embeddings.pkl
+.python-version
+
+*.log
+*.tmp
+*.DS_Store
+temp/*
+**/__pycache__/
+**/*.pyc
